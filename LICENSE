@@ -1,0 +1,31 @@
+Copyright (c) 2023-2026 Marko Rastas
+All rights reserved.
+
+This repository and all original software, compiled builds, assets, documentation,
+and other materials contained herein (including, without limitation, the
+PackingProblem application) are the exclusive property of Marko Rastas.
+
+No permission is granted to any person or entity to use, copy, reproduce, modify,
+adapt, publish, distribute, sublicense, sell, or create derivative works from any
+part of this repository, whether for commercial or non-commercial purposes, without
+the prior explicit written permission of the copyright holder.
+
+Exceptions and Clarifications:
+1. Public Web Viewing: End users may view and interact with the published web
+   application hosted on the official GitHub Pages site (https://markorastas.github.io/)
+   solely through a standard web browser for personal viewing. This does not grant
+   any right to download, host elsewhere, decompile, reverse engineer, extract assets,
+   or reuse any files or code.
+2. GitHub Platform Features: Viewing and forking this repository strictly within the
+   GitHub platform remain subject to the GitHub Terms of Service, which do not grant
+   any license to copy, distribute, or use the contents outside those platform features.
+3. Third-Party Components: Third-party engine, runtime, and template components
+   included in the web build (such as Unity WebGL runtime scripts and template files
+   under PackingProblem/) remain subject to their respective third-party licenses and
+   terms.
+
+THE SOFTWARE AND MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM
+THE USE OF OR INABILITY TO USE THIS REPOSITORY OR ITS CONTENTS.
